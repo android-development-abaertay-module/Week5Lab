@@ -126,7 +126,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap.setOnMarkerClickListener(this);
         mMap.setOnMapClickListener(this);
 
-        mMap.setMyLocationEnabled(true);
 
 
         //you can draw polygons or circles with maps too
