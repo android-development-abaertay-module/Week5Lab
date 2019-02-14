@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Week5ScencorsAndLocation</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
